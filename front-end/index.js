@@ -9,4 +9,6 @@ submit.addEventListener('click',(e)=>{
     y=parseInt(y.value);
     result.value=x+y;
     ans.innerHTML="Ans is: "+result.value;
+
+    var x=2+3;
 })
