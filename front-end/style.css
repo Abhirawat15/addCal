@@ -1,0 +1,13 @@
+#box{
+    padding: 5% 10%;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+}
+
+input{
+    margin: 2%;
+}
